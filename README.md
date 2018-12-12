@@ -14,4 +14,4 @@ Currently, our dataset contains 75 manually annotated spherical panoramas. The o
 ![image](./Figs/dataset.png)
 
 ## Code
-Evaluation code and source code will be released in the future.
+Evaluation code and source code will be released in future.
